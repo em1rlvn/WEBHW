@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#06283d"/>
+  
+  <!-- Sun with rays -->
+  <circle cx="32" cy="24" r="10" fill="#FFCC33"/>
+  
+  <!-- Sun rays -->
+  <line x1="32" y1="8" x2="32" y2="2" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  <line x1="32" y1="40" x2="32" y2="46" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  <line x1="48" y1="24" x2="54" y2="24" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  <line x1="16" y1="24" x2="10" y2="24" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  <line x1="43" y1="15" x2="48" y2="10" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  <line x1="21" y1="37" x2="16" y2="42" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  <line x1="43" y1="33" x2="48" y2="38" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  <line x1="21" y1="15" x2="16" y2="10" stroke="#FFCC33" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Cloud -->
+  <path d="M 18 42 Q 14 42 12 38 Q 8 38 8 34 Q 8 30 12 30 Q 14 26 20 26 Q 24 20 32 20 Q 40 20 44 26 Q 50 26 52 32 Q 54 32 54 36 Q 54 40 50 42 Z" fill="#3AA0FF" opacity="0.8"/>
+</svg>
