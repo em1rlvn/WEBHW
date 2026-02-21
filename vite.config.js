@@ -4,4 +4,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/Weather-Website-main/', 
+  build: {
+    outDir: 'dist',                 
+    assetsDir: 'assets',
+    sourcemap: false,               
+  },
 })
